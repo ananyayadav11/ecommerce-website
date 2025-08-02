@@ -10,6 +10,7 @@ Add to cart buttons (UI only, no backend functionality)
 Technologies Used
 HTML
 CSS
+<img width="1908" height="1081" alt="image" src="https://github.com/user-attachments/assets/39f9154a-cfac-483e-a2a9-998439fd4bcc" />
 
 ![image](https://github.com/user-attachments/assets/a4ab18e0-38a9-4259-ae2d-8e5e6d571beb)
 ![image](https://github.com/user-attachments/assets/d7f143a8-ce05-4602-ac4e-b3889e8fa5b3)
